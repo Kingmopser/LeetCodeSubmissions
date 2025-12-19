@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+Satelite_proj.egg-info/PKG-INFO
+Satelite_proj.egg-info/SOURCES.txt
+Satelite_proj.egg-info/dependency_links.txt
+Satelite_proj.egg-info/requires.txt
+Satelite_proj.egg-info/top_level.txt
+satelite_proj/__init__.py
+satelite_proj/main.py

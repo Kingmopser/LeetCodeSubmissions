@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: Satelite_proj
+Version: 0.1.0
+Summary: Satelite Prediction
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: numpy>=1.26
+Requires-Dist: scipy>=1.11
+Requires-Dist: pandas>=2.1
+Requires-Dist: torch>=2.1
+Requires-Dist: torchvision>=0.16
+Requires-Dist: scikit-learn>=1.3
+Requires-Dist: matplotlib>=3.8
+Requires-Dist: seaborn>=0.13
+Requires-Dist: request>=2.32.2
+Provides-Extra: dev
+Requires-Dist: ipykernel; extra == "dev"
+Requires-Dist: jupyterlab; extra == "dev"
+Requires-Dist: black; extra == "dev"
+Requires-Dist: ruff; extra == "dev"
+Requires-Dist: mypy; extra == "dev"
